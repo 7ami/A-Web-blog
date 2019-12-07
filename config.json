@@ -1,0 +1,20 @@
+{
+  "parameters":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/crazy7blog",
+    "prod_uri": "mysql://root:@localhost/crazy7blog",
+    "fb_url": "https://facebook.com/crazy7blog",
+    "gh_url": "https://github.com/cray7blog",
+    "tw_url": "https://twitter.com/cray7blog",
+    "gmail_name": "amir.ranabhat98@gmail.com",
+    "gmail_pass": "smriti987",
+    "heading": "CRAZY-7BLOG",
+    "about_text": "Hello I am mr Crazy.I love creating web apps"
+
+  }
+
+
+
+
+}
